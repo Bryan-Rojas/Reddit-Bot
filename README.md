@@ -4,6 +4,7 @@ A bot that uses Reddit's API (PRAW) to automatically reply to users when it is c
 
 <img src="https://i.imgur.com/D84DZsM.png" alt="Reddit bot screenshot of CMD">
 <img src="https://i.imgur.com/2O6N2M2.png" alt="reddit bot screenshot of reddit reply"><img src="https://i.imgur.com/MXsBHMs.png" alt="reddit bot screenshot of meme">
+
 ## Prerequisites
 
 * Reddit Knowledge
