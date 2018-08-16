@@ -41,7 +41,7 @@ def run_bot(reddit_bot, comments_replied_to, list_of_links):
 
     #Here it generates a random number and utilizes this random number to decide a random imgur link.
     #Using the random number, it picks that position/index in the list "link_extension"
-    randnum = random.randint(0,len(list_of_links))
+    randnum = random.randint(0,len(list_of_links)-1)
 
     #Here is makes a string equal to the random position of the imgur link extension.
     link_extension = list_of_links[randnum]
