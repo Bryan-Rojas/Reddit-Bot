@@ -5,21 +5,21 @@ A bot that uses Reddit's API (PRAW) to automatically reply to users when it is c
 
 ## Prerequisites
 
-Reddit Knowledge
-Reddit account
-Client ID and Client Secret
-Python Knowledge
+* Reddit Knowledge
+* Reddit account
+* Client ID and Client Secret
+* Python Knowledge
 
-Python 3.7.0
-PRAW 6.0.0
+* Python 3.7.0
+* PRAW 6.0.0
 
 
 ## Running
 
 Go to file location in CMD and type in the following command:
-'''
+```
   python reddit_bot.py
-'''
+```
 
 
 ## Built With
